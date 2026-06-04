@@ -4,5 +4,5 @@
 # he is "The President"
 # ```
 # op
-print("it's sunday")
-print('he is "The President"')
+# print("it's sunday")
+# print('he is "The President"')

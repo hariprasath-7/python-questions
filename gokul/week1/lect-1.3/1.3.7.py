@@ -1,6 +1,8 @@
 # 7) what will the below code do?
 #     ```
-print['hello']
+# print['hello']
 #     ```
 # op
-# 0
+# error 
+# corrected code 
+# print('hello')

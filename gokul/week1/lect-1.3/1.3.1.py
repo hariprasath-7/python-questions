@@ -3,5 +3,5 @@
 # ```
 # print("hello","world")
 # ```
-O/p
-hello world 
+# O/p
+# hello world 

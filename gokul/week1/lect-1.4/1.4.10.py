@@ -3,3 +3,9 @@
 # LINE-1
 # LINE-2
 # ```
+# op
+# enter a number:10
+# 100
+print("Enter a number:")
+n=int(input())
+print(n*n)

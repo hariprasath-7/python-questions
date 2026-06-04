@@ -7,3 +7,9 @@
 # print(n+2)
 # print(n+3)
 # ```
+# op
+# enter a number:10
+# 10
+# 11
+# 12
+# 13

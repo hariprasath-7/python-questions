@@ -3,3 +3,6 @@
 #     n=input()
 #     print(n*n)
 #     ```
+# op
+n = int(input())
+print(n*n)

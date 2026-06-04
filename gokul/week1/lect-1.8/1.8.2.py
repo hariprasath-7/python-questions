@@ -3,3 +3,5 @@
 #     x=false
 #     print(type(x))
 #     ```
+# op
+# class <'bool'>

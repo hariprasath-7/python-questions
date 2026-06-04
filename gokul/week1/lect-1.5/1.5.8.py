@@ -3,3 +3,6 @@
 #     how is the weather in sathy?
 #     ```
 #     NOTE : no space between 'sathy' and '?'
+# op
+place = input()
+print("how is the weather in",place+"?")

@@ -5,4 +5,9 @@
 #     print(l[2])
 #     print(type(l[2]))
 #     ```
+# op
+# <class 'list'>
+# 30
+# <class 'int'>
+
 

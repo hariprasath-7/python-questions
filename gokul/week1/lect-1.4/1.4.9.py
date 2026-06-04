@@ -2,3 +2,7 @@
 # ```
 # LINE-1
 # print(a*2)
+# op
+a =input("enter the name:")
+print(a)
+print(a*2)

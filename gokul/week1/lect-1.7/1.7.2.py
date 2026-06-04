@@ -6,3 +6,8 @@
 #     print(l[1])
 #     print(l[0])
 #     ```
+# op
+# Index error 
+# 30
+# 20
+# 10

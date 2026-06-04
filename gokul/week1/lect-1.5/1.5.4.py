@@ -3,3 +3,6 @@
 #     n=input()
 #     n=int(input())
 #     ```
+# op
+# in the first line the datatype of n i string 
+# in the second line the datatype of n is integer

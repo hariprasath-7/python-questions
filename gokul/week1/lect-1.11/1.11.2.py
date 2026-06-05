@@ -10,6 +10,15 @@ print(s[2])
 print(c[3:7])
 print(s[1:4])
 print(s[1:5])
-print(s-t)
-print(s+t)
-#     ```
+# print(s-t)
+# print(s+t)
+    
+#  ```
+# op
+# c
+# o
+# f
+# 345
+# off
+# offe
+# 

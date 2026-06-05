@@ -2,3 +2,10 @@
 # 5. Accept a positive real number 
 # x as input and print 
 # g(x)
+# code
+import math
+
+a=float(input())
+x=math.ceil(a)
+print(x)
+

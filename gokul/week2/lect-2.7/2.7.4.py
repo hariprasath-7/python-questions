@@ -16,3 +16,11 @@ OUTPUT: 'bcdef'
 '''
 
 # solution:
+IN = 'gokul'
+OUT = ''
+for i in IN :
+    i = ord(i)
+    i +=1
+    OUT += chr(i)
+print(OUT)
+    

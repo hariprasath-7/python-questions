@@ -6,3 +6,21 @@
 # Multiply x by 2.
 # Divide x by 3.
 # Print the value of x after each operation.
+# op:
+x = 10
+
+x +=3
+print(x)
+
+x-=4
+print(x)
+
+x*=2
+print(x)
+
+x/=3
+print(x)
+
+
+# note:
+# Shorthand operators are operators that combine an arithmetic operation and assignment into a single statement.

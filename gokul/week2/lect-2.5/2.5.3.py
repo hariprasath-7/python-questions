@@ -1,3 +1,5 @@
 # modify the code so that all the sentences are printed in a new line
 
-print("a for apple.b for banana.c for cat.d for dog")
+print(" a for apple.b for banana.c for cat.d for dog")
+# op:
+print(" a for apple.\n b for banana.\n c for cat.\n d for dog")

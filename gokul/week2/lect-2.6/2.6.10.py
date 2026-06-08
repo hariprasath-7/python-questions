@@ -7,3 +7,7 @@ x="python is a programming language. python is easy to learn.I love pykkara fals
 print(x.index("python",10))
 print(x.index("python",0,10))
 print(x.index("python",10,20))
+# op:
+# 34
+# 0
+# error 

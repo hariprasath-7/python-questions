@@ -14,4 +14,5 @@ if marks<60:
     print("E")
 else:
     print("none")
+# op:
 

@@ -18,3 +18,16 @@ INPUT:
 OUTPUT:
     'wbyhhuc'
 '''
+# op:
+alpha = "abcdefghijklmnopqrstuvwxyz"
+s = input()
+k = int(input())
+result = " "
+
+for ch in s :
+    pos = alpha.index(ch)
+    new_pos = (pos + k) % 26
+    result +=alpha[new_pos]
+
+print (result)
+

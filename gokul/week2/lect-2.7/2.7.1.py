@@ -3,6 +3,9 @@
 
 x="abcdefghijklmnopqrstuvwxyz"
 i=8 
+print(x)
 print(x[i])
 print(x[-i])
-print(x[i+26])
+# print(x[i+26])
+# op:
+

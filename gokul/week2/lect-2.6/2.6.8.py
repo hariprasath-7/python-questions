@@ -3,5 +3,5 @@
 print("Python String Methods".index('o'))
 print("Python String Methods".index("O"))
 # op:
-# 4 18
-# p
+# 4 
+# error 

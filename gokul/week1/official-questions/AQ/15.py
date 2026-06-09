@@ -4,3 +4,6 @@
 #  code 
 word = input("Enter the word:")
 print(word[0] == word[-1])
+# op
+#  input = malayalam op - true
+#  input = hari op - false 

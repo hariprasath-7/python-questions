@@ -1,22 +1,22 @@
 # 1. guess the output
 #     ```
-s='0123456789'
-a=s[0]
-b=s[7]
-c=s[4]
-d=int(s[1])
-e=int(s[2])
-f=int(s[3])
-print(type(a))
+# s='0123456789'
+# a=s[0]
+# b=s[7]
+# c=s[4]
+# d=int(s[1])
+# e=int(s[2])
+# f=int(s[3])
+# print(type(a))
 #     print(a)
 #     print(b)
 #     print(c)
-print(a+b+c)
-print("1"+"3"+"6")
+# print(a+b+c)
+# print("1"+"3"+"6")
 #     print(d)
 #     print(e)
 #     print(f)
-print(d+e+f)
+# print(d+e+f)
 #     ```
 # op
 # a = str
@@ -28,4 +28,4 @@ print(d+e+f)
 # 1
 # 2
 # 3
-# 123
+# 6

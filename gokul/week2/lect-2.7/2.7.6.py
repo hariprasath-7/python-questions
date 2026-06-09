@@ -18,12 +18,7 @@ INPUT:'y'
 OUTPUT: 25
 '''
 # op:
-# alpha='abcdefghijklmnopqrstuvwxyz'
-# IN =  input()
-# v = alpha.index(IN) + 1
-# print(v)
-# code :
-alpha = "abcdefghijklmnopqrstuvwxyz"
-In = input()
-v = alpha.index(In) + 1
+alpha='abcdefghijklmnopqrstuvwxyz'
+IN =  input()
+v = alpha.index(IN) + 1
 print(v)

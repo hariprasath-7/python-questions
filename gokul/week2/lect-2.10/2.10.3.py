@@ -9,3 +9,5 @@
 import math 
  
 print(math.sqrt(10))
+# op:
+3.1622776601683795

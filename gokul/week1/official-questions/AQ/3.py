@@ -6,3 +6,9 @@
 # outcome of a coin toss
 # outcome of a tennis match
 # nodding your head
+# op
+# boolean = 1 true and 0 false
+# state of a switch = on and off
+# outcome of an coin toss = head and tails 
+# outcome of an tennis match = win or lose 
+# noding your head = yes or no 

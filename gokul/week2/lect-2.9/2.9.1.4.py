@@ -15,4 +15,10 @@ if marks<60:
 else:
     print("none")
 # op:
+# A
+# B
+# C
+# D
+# E
+# none
 

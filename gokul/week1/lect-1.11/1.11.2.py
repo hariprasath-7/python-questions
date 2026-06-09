@@ -18,7 +18,8 @@ print(s[1:5])
 # c
 # o
 # f
-# 345
+# 3456
 # off
 # offe
-# 
+# s - t will not work cause we cant minus a string
+# s+t = coffeebread 

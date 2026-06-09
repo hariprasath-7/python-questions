@@ -3,5 +3,5 @@
 # print('it's a beautiful day') 
 # print("we are from "IIT Madras" Madras")
 # op:
-print("it's a beautiful day")
-print('we are from " IIT madras" madras')
+# print("it's a beautiful day")
+# print('we are from "IIT madras" madras')

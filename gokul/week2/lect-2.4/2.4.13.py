@@ -7,7 +7,7 @@ count*=2
 count**=2
 count-=10
 count+=2
-count//=2
+count/=2
 print(count)
 # op:
-# 
+# 4.0

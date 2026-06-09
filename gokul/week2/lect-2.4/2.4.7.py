@@ -7,3 +7,5 @@
 # e) A b=10
 # op;
 # a,b,d,e
+# note:
+# python variable can contain a-z and 0-9 also start with "_" but cant start with a digit or any simples and space inbetween names 

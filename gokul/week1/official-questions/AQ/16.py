@@ -4,3 +4,6 @@
 # code 
 x =int(input("enter a positive number:"))
 print(x+x+x+x+x+x+x+x+x+x)
+# op
+# input = 12
+# op = 120

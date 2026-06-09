@@ -6,3 +6,6 @@
 import math 
 x = int(input())
 print(math.factorial(x))
+# op:
+20
+2432902008176640000 

@@ -6,3 +6,4 @@ del (x)
 print(x)
 # op:
 # 10 
+# NameError 

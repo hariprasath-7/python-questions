@@ -7,5 +7,5 @@ print(x.rstrip())
 print(x.strip())
 # op:
 # python 
-    #   python 
+#       python 
 # python

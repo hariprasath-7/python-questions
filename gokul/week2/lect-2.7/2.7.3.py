@@ -9,7 +9,7 @@ print(alpha[i+1])
 # print(alpha[i+2]%26)
 print(alpha[(i+2)%26])
 # op:
-#  y
+#  z
 #  alpha[26] = not valid 
-#  cant place a  square braced expression inside an paranthesis  
+#  string % number not allowded 
 #  a 

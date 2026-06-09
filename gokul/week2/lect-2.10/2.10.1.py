@@ -6,3 +6,5 @@ import math
 
 x = 10
 print(math.log(x))
+# op:
+2.302585092994046

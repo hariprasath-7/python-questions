@@ -3,3 +3,5 @@
 # 
 a = 7 ** 100
 print(len(str(a)))
+# op 
+#  85 

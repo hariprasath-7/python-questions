@@ -5,5 +5,5 @@ print("beta" in "i am in betasquad")
 print("gamma" in "i am in gamasquad")
 # op:
 #  true
-#  false
+#  true
 #  false 

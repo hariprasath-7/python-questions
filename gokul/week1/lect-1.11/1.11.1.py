@@ -1,19 +1,19 @@
 # 1. what wil be the output?
 #     ```
-s='coffee'
-t='bread'
-print(s)
-print(t)
-print(s+t)
-u=3
+# s='coffee'
+# t='bread'
+# print(s)
+# print(t)
+# print(s+t)
+# u=3
 # print(u+s)
-print(u*t)
+# print(u*t)
 # print(3.2*"gokul")
 #     ```
 # op
 # coffee
 # bread
 # coffeebread
+# we cant add a int and an str
 # breadbreadbread
-# error
-# error 
+# we cant multiply an float and an string 

@@ -5,3 +5,6 @@ import math
 
 x = 45
 print(math.sin(x))
+# op:
+
+0.8509035245341184

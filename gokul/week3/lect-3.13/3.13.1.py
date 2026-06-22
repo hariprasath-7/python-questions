@@ -10,3 +10,8 @@ b
 c
 d
 '''
+for ch in INPUT:
+    if ch == '@':
+        break
+    print(ch)
+

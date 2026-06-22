@@ -14,3 +14,27 @@
 
 # If the number is not divisible by any of ( 3 , 5 and 10) , just print the number as it is.
 
+# code:
+start = int(input())
+stop = int(input())
+
+for num in range(start, stop + 1):
+    if num % 3 == 0 and num % 5 == 0 and num % 10 == 0:
+        break
+        
+    div_by_3 = (num % 3 == 0)
+    div_by_5 = (num % 5 == 0)
+    div_by_10 = (num % 10 == 0)
+    
+    match_count = div_by_3 + div_by_5 + div_by_10
+    
+    if match_count == 2:
+        continue
+    elif div_by_10:
+        print("Divisible by 10")
+    elif div_by_5:
+        print("Divisible by 5")
+    elif div_by_3:
+        print("Divisible by 3")
+    else:
+        print(num)

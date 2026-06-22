@@ -3,3 +3,8 @@
 print(1,2,3,4,5)
 
 # expected output is  : 1.2.3.4.5
+
+# mod code:
+print(1,2,3,4,5,sep=".")
+# op:
+# 1.2.3.4.5

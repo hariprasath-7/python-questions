@@ -1,6 +1,6 @@
 # write a code to print the below output , 
 # using nested for loops
-input="abcd"
+# input="abcd"
 '''
 0 0 a a
 0 1 a b
@@ -19,3 +19,15 @@ input="abcd"
 3 2 d c
 3 3 d d
 '''
+# text = "abcd"
+
+
+for i in range(len(text)):
+    
+    
+    for j in range(len(text)):
+        
+        
+        print(i, j, text[i], text[j])
+
+

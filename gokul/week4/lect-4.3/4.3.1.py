@@ -1,1 +1,9 @@
 # create a list of 10 random numbers between 0 and 1, generated using random library
+import random 
+l =[]
+for i in range(10):
+    num = random.random()
+    l.append(num)
+print(l)
+# op:
+# [0.00511353587340968, 0.41205497688868364, 0.18294746069203516, 0.3676581340651903, 0.9004516944877473, 0.1949383189807743, 0.26619674742514854, 0.3581272026669502, 0.8891177200384951, 0.349476762279999]

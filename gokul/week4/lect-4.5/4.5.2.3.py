@@ -6,3 +6,6 @@ sorted(l)
 print(l)
 m.sort()
 print(m)
+# ANS:
+# the soretd(l) makes a new copy of the list but not stored in any variable so print(l) prints the untouced variable l 
+# the m.sort() sort the list and not created a new list and when we print it give the sorted value of the list 
